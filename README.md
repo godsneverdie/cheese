@@ -1,3 +1,2 @@
 # cheese
-...
-:cheese:
+or Chess
